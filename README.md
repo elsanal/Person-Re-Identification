@@ -1,0 +1,2 @@
+# Person-Re-Identification
+In this project, the objective is to design an algorithm capable to re-identify people. We feed the model with only one image of that person, and the algorithm retrieve all the images of that person. To achieve this goal, we have used the triplet loss function to compute the difference and the similarities between the images in the training data set. The triplet loss function took essentially 4 parameters : anchor, positive, negative and a margin. The project is not completed yet, we are still working on it for better performance. 
